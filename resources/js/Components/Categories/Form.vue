@@ -1,11 +1,3 @@
-
-import { mergeProps } from 'vue';
-
-import FormSectionVue from 'vendor/laravel/jetstream/stubs/inertia/resources/js/Components/FormSection.vue';
-
-import FormSectionVue from '../FormSection.vue';
-
-import FormSectionVue from '../FormSection.vue';
 <script>
 export default {
         name: 'CategoriesForm',
